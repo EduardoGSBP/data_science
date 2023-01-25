@@ -13,7 +13,8 @@
 
 ## Projetos:
 
-* 
+* https://github.com/EduardoGSBP/data_science/blob/main/C%C3%B3pia_de_%5BTemplate%5D_Analisando_os_Dados_do_Airbnb.ipynb
+
 ---
 
 
